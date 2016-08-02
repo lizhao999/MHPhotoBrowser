@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "图片选择"; ObjectID = "20M-Gb-yrM"; */
+"20M-Gb-yrM.title" = "图片选择";
+
+/* Class = "UIButton"; normalTitle = "选择图片"; ObjectID = "C80-75-QRu"; */
+"C80-75-QRu.normalTitle" = "选择图片";
+
+/* Class = "UINavigationItem"; title = "图片浏览"; ObjectID = "Ka3-o7-ayD"; */
+"Ka3-o7-ayD.title" = "图片浏览";
+
+/* Class = "UILabel"; text = "图片浏览"; ObjectID = "UnI-UC-FFu"; */
+"UnI-UC-FFu.text" = "图片浏览";
+
+/* Class = "UILabel"; text = "图片浏览"; ObjectID = "zMD-Jq-btU"; */
+"zMD-Jq-btU.text" = "图片浏览";
